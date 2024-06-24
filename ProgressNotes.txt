@@ -1,12 +1,17 @@
+Day 4 - 06/10/2024
+- learning new routing features of nexts.js and hoe to implement the didfferent pages properly
+    Solution: Refresh and Learn Next.js Routing Structure and how to use it effectively 
+
 Day 3 - 06/07/2024 (Last day of Spring Quarter)
--Fixing Images images slider importing issues (Has issues with loading images occasionally? Seems to Resolved itself)
--Next steps are creating Seminar Booking Page, as well as contact Page
+- Fixing Images images slider importing issues
+    Solution: Was attaching to the wrong thing and casuing weird errors throughout
+- Next steps are creating Seminar Booking Page, as well as contact Page
 
 Day 2 - 04/15/2024
--Fixed The NavBar issue (Minor Syntax Error: Didnt have a href tag under home)
--Started Development of the Navbar in mobile as well as Desktop
+- Fixed The NavBar issue (Minor Syntax Error: Didnt have a href tag under home)
+- Started Development of the Navbar in mobile as well as Desktop
 
 Day 1 - 04/14/2024 
--got a basic landing page
+- Got a basic landing page
 - Currently fixing navbar so that it is displayed on everypage . Not sure where to put it tbh (Maybe Page.js?)
--overall good progress and it is just the start!
+- Overall good progress and it is just the start!

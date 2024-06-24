@@ -46,7 +46,7 @@ const Navbar = () => {
                         <Link href='/testimonials'>Testimonials</Link>
                     </li>
                     <li className='p-3'>
-                        <Link href='/contact'>Contact Us</Link>
+                        <Link href='/contact'>Contact</Link>
                     </li>
                 </ul>
             
